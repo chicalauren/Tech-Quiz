@@ -1,0 +1,94 @@
+[
+    {
+        "question": "What is the capital of USA?",
+        "answers": [
+          { "text": "St Paul", "isCorrect": false },
+          { "text": "Patriotville", "isCorrect": false },
+          { "text": "New York City", "isCorrect": false },
+          { "text": "Washington DC", "isCorrect": true }
+        ]
+      },
+      {
+        "question": "What is 2 + 2?",
+        "answers": [
+          { "text": "6", "isCorrect": false },
+          { "text": "4", "isCorrect": true },
+          { "text": "9", "isCorrect": false },
+          { "text": "7", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "What is 20 + 2?",
+        "answers": [
+          { "text": "6", "isCorrect": false },
+          { "text": "22", "isCorrect": true },
+          { "text": "9", "isCorrect": false },
+          { "text": "7", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "What is 22 + 2?",
+        "answers": [
+          { "text": "6", "isCorrect": false },
+          { "text": "24", "isCorrect": true },
+          { "text": "9", "isCorrect": false },
+          { "text": "7", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "What is 25 + 2?",
+        "answers": [
+          { "text": "6", "isCorrect": false },
+          { "text": "27", "isCorrect": true },
+          { "text": "9", "isCorrect": false },
+          { "text": "7", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "What is 80 + 2?",
+        "answers": [
+          { "text": "6", "isCorrect": false },
+          { "text": "82", "isCorrect": true },
+          { "text": "9", "isCorrect": false },
+          { "text": "7", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "What is 32 + 2?",
+        "answers": [
+          { "text": "6", "isCorrect": false },
+          { "text": "34", "isCorrect": true },
+          { "text": "9", "isCorrect": false },
+          { "text": "7", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "What is 16 + 2?",
+        "answers": [
+          { "text": "6", "isCorrect": false },
+          { "text": "18", "isCorrect": true },
+          { "text": "9", "isCorrect": false },
+          { "text": "7", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "What is 12 + 2?",
+        "answers": [
+          { "text": "6", "isCorrect": false },
+          { "text": "14", "isCorrect": true },
+          { "text": "9", "isCorrect": false },
+          { "text": "7", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "What is 10 + 2?",
+        "answers": [
+          { "text": "6", "isCorrect": false },
+          { "text": "12", "isCorrect": true },
+          { "text": "9", "isCorrect": false },
+          { "text": "7", "isCorrect": false }
+        ]
+      }
+
+  ]
+    
