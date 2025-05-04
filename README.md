@@ -33,7 +33,7 @@ A full-stack MERN quiz application that allows users to test their knowledge by 
 Want to see how it works in action?
 
 👉 **Watch the full walkthrough here:**  
-📺 [https://app.screencastify.com/v3/watch/xqnlHsmfF2wHWHk8n8dO](#)
+📺 [[https://app.screencastify.com/v3/watch/xqnlHsmfF2wHWHk8n8dO]([https://app.screencastify.com/v3/watch/xqnlHsmfF2wHWHk8n8dO)](#)
 
 > Covers: Setup, test writing, app features, and debugging tips.
 
